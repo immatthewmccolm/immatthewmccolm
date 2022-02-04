@@ -28,7 +28,7 @@ I am always looking for new projects to work on and would be delighted if you we
 | Method | Details |
 |-------|--------|
 |Email|sa12mccolmm2@glow.sch.uk|
-|Web|sa12mccolmm2.github.io|
+|Web|<a href="mailto:sa12mccolmm2.github.io">sa12mccolmm2.github.io</a>|
 |MS Teams | SA12McColmM2@glow.sch.uk|
 
 ---
