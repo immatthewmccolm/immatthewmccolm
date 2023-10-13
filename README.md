@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Designer and Developer
 --------------------------
 
-I'm a 15-year-old student from Ayrshire and I have a passion for Web Design and Development. Since I started 5 years ago I have been improving upon my skills and working with clients up and down the country in a mission to make the web a beautiful and information rich place just as its inventor Tim Berners-Lee Intended. As well to web design and development I also have a keen passion for graphic design. I practice mobile-first design and believe that the web should be accessible for all.
+I'm a 16-year-old student from Ayrshire and I have a passion for Web Design and Development. Since I started 5 years ago I have been improving upon my skills and working with clients up and down the country in a mission to make the web a beautiful and information rich place just as its inventor Tim Berners-Lee Intended. As well to web design and development I also have a keen passion for graphic design. I practice mobile-first design and believe that the web should be accessible for all.
 
 * 🌍  I'm based in Ayrshire, Scotland
-* 🖥️  See my portfolio at [www.mmccolm.co.uk](http://mmccolm.co.uk)
-* ✉️  You can contact me at [matthew@mmccolm.co.uk](mailto:matthew@mmccolm.co.uk)
+* 🖥️  See my portfolio at [www.developx.uk](http://developx.uk)
+* ✉️  You can contact me at [matthew.mccolm@develoxp.uk](mailto:matthew.mccolm@develoxp.uk)
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on Cool Projects.
 * ⚡  I'm a champion for Accessibility and I am currently working on some public-sector websites
