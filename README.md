@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Matthew</h1>
 <h3 align="center">A Software Engineering Student from Edinburgh</h3>
 
-- 🔭 I’m currently working on [Tarbolton Local Action Plan](https://tlap.tarboltoncc.co.uk)
-
 - 📫 How to reach me **40712747@live.napier.ac.uk**
 
 <h3 align="left">Connect with me:</h3>
